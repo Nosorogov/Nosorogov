@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nosorogov
 - 👀 I’m interested in DS & ML
 - 🌱 I’m currently learning DeepLearning
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on joint projects related to NLU
 - 📫 How to reach me nick.nosorogov@gmail.com
 
 <!---
